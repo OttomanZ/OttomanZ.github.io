@@ -44,22 +44,8 @@ I am a passionate Machine Learning Engineer with expertise in LLMs and Computer 
 ### National University of Sciences and Technology (NUST)
 - Degree in Computer Science (Machine Learning Specialization)
 
-## 🛠️ Skills
 
-- Machine Learning
-- Computer Vision
-- Python (Programming Language)
-- TensorFlow
-- PyTorch
-- JavaScript
-- Gradio
-- Streamlit
-- Apache Spark
-- Cloud Object Storage
-- SQL/NoSQL databases
-- AWS, GCP
-
-## 💡 Projects
+## 💡 Projects (Some)
 
 ### Alinda: Voice AI for Student Learning
 *Advanced data analytics and code generation features*
