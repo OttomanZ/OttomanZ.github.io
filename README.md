@@ -42,7 +42,7 @@ I am a passionate Machine Learning Engineer with expertise in LLMs and Computer 
 ## 🎓 Education
 
 ### National University of Sciences and Technology (NUST)
-- Degree in [Your Degree]
+- Degree in Computer Science (Machine Learning Specialization)
 
 ## 🛠️ Skills
 
@@ -65,26 +65,19 @@ I am a passionate Machine Learning Engineer with expertise in LLMs and Computer 
 *Advanced data analytics and code generation features*
 - Developed a Voice AI to help revolutionize student learning.
 - Integrated advanced data analytics and code generation features to enhance the learning experience.
-- [Link to Project/Repository]
 
 ### Solar Panel Cracks Detection Software
 *Built with a French Company (NDA)*
 - Developed a software solution for detecting cracks in solar panels using computer vision techniques.
 - Collaborated with a French company under a non-disclosure agreement.
-- [Link to Project/Repository]
-
+=
 ### ShipTrack: Military Application Software
 *Designed with a Brazilian Company*
 - Developed ShipTrack, a software designed for military applications.
 - Collaborated with a Brazilian company to create a robust and efficient tracking system.
-- [Link to Project/Repository]
-
+=
 ## 📚 Research
 
-### Sample Research Paper on LLMs
-*Title: "Advancements in Large Language Models for Natural Language Processing"*
-- Authored a research paper exploring the latest advancements in LLMs and their applications in NLP.
-- [Link to Research Paper]
 
 ## 🏆 Awards
 
@@ -104,10 +97,6 @@ I am a passionate Machine Learning Engineer with expertise in LLMs and Computer 
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 - **Website:** [Docwyn AI](https://beta.docwyn.com/)
 
-## 📝 Blog
-
-[Optional: Include links to your blog posts or articles]
-
 ## 🌟 Interests
 
 - Generative AI
@@ -115,5 +104,7 @@ I am a passionate Machine Learning Engineer with expertise in LLMs and Computer 
 - Machine Learning
 - Robotics
 - Data Analytics
+- LLM
+- LLMOps
 
 Feel free to reach out to me for collaborations or any queries. Thank you for visiting my website! 🌐
